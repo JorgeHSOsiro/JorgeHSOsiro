@@ -2,10 +2,10 @@
 
 ## About
 <!--ts-->
-  :seedling: I'm a FullStack Development student at Trybe
-  :snake: Currently learning: python
-  :notes: I love music and play video games
+  * :seedling: I'm a FullStack Development student at Trybe
+  * :snake: Currently learning: python
+  * :notes: I love music and play video games
 <!--te-->
 
 ## Languages
-<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
+<img src="https://img.shields.io/static/v1?label=react&color=blue&style=for-the-badge&logo=REACT"/>
