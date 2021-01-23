@@ -1,10 +1,10 @@
-# Hi There! I'm Jorge! :smile_cat:
+# Hi There! I'm Jorge! :wave:
 
 ## About
 <!--ts-->
   * :seedling: I'm a FullStack Development student at Trybe
   * :snake: Currently learning: Python
-  * :notes: I love music and play video games
+  * :notes: I love music and video games
 <!--te-->
 
 ## Technologies
@@ -26,6 +26,9 @@
 ## Contact
   <a href="https://www.linkedin.com/in/jorge-osiro/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:jorge.h.s.osiro@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white&style=for-the-badge" />
   </a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JorgeHSOsiro&theme=tokyonight)](https://github.com/JorgeHSOsiro/github-readme-stats)
