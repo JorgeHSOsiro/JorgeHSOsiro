@@ -31,4 +31,5 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white&style=for-the-badge" />
   </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JorgeHSOsiro&theme=tokyonight)](https://github.com/JorgeHSOsiro/github-readme-stats)
+## Statistics
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JorgeHSOsiro&theme=tokyonight)](https://github.com/JorgeHSOsiro/github-readme-stats)
