@@ -24,6 +24,8 @@
   </p>
 
 ## Contact
-  <a src="https://www.linkedin.com/in/jorge-osiro/">
+  <a href="https://www.linkedin.com/in/jorge-osiro/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge" />
   </a>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JorgeHSOsiro&theme=tokyonight)](https://github.com/JorgeHSOsiro/github-readme-stats)
