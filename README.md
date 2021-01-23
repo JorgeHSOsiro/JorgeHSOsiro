@@ -1,10 +1,11 @@
 # Hi There! I'm Jorge! :smile_cat:
 
 ## About
-  :seedling: I'm a development student at Trybe
-  :notes: Fun facts:
-              * :notes: I love music
-              * :video_game: Love plaiyng video-games
+<!--ts-->
+  :seedling: I'm a FullStack Development student at Trybe
+  :snake: Currently learning: python
+  :notes: I love music and play video games
+<!--te-->
 
-## Currently learning
-  :snake: Python
+## Languages
+<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
