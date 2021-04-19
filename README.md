@@ -2,7 +2,7 @@
 
 ## About
 <!--ts-->
-  * :octocat: I'm a FullStack Development student at Trybe
+  * :octocat: I'm a Web FullStack Developer
   * :seedling: Currently learning: Salesforce
   * :knife: Sharpening: React & Node
   * :notes: I love music and video games
