@@ -2,8 +2,9 @@
 
 ## About
 <!--ts-->
-  * :seedling: I'm a FullStack Development student at Trybe
-  * :snake: Currently learning: Python
+  * :octocat: I'm a FullStack Development student at Trybe
+  * :seedling: Currently learning: Salesforce
+  * :knife: Sharpening: React & Node
   * :notes: I love music and video games
 <!--te-->
 
@@ -21,6 +22,7 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge" />
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=for-the-badge" />
     <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=Android-Studio&logoColor=white&style=for-the-badge" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-88FAF0?logo=Python&logoColor=white&style=for-the-badge" />
   </p>
 
 ## Contact
