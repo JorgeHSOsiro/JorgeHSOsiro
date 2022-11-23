@@ -3,8 +3,8 @@
 ## About
 <!--ts-->
   * :octocat: I'm a Web FullStack Developer
-  * :seedling: Currently learning: React Native
-  * :knife: Sharpening: React | Node | Java
+  * :seedling: Currently learning: React
+  * :knife: Sharpening: Typescript
   * :notes: I love music and video games
 <!--te-->
 
